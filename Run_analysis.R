@@ -1,5 +1,6 @@
 
-#STEP 1: Create filepaths for train and test data
+#STEP 1: Create filepaths for train and test data. Note, change file path names based on your directories.
+#NOTE: I Have included intertial signals into my data tables and have used data.table syntax. 
 
 #Test Data
 filepath1 <- "C:/Users/samuel.baird/OneDrive - Cardinal Health/Documents/R Programming/Course3_Quiz_Data/getdata_projectfiles_UCI HAR Dataset/UCI HAR Dataset/test/subject_test.txt" #participants
